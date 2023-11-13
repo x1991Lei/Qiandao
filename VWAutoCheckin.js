@@ -1,4 +1,3 @@
-```properties
 [Script]
 # 上汽大众自动签到
 cron "0 0 * * *" script-path=VWAutoCheckin.js
